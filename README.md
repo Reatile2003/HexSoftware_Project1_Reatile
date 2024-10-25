@@ -1,0 +1,1 @@
+This is my personal portfolio website, showcasing my skills, projects, and contact information. It reflects my passion for web development, design, and creativity. The site is designed to provide a smooth user experience with responsive design elements and engaging animations.
